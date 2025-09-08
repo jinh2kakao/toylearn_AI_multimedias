@@ -6,3 +6,10 @@
 옷은 파란색 점프슈트에 주황색 목수건을 착용하고 있고,
 양손을 벌리고 반갑게 맞이하는 포즈입니다.
 ```
+```
+Create a 3D character for children,
+A penguin wearing a helmet and glasses, jumpsuit and neckerchief.
+The helmet is yellow with the initials P in the center blue stripe,
+is wearing a blue jumpsuit and an orange neckerchief, and
+is in a welcoming pose with open hands.
+```
