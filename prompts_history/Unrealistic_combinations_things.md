@@ -19,3 +19,6 @@ Please include advertising text for the car in the image.
 Use a magazine-style text for the text.
 Please suggest advertising text that emphasizes the car's power, speed, and ride quality.
 ```
+```
+Please fill the billboard with the advertisement image created above and place it on the attached image.
+```
