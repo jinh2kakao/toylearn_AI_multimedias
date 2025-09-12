@@ -6,3 +6,9 @@ Character01 is shown holding the sword on the right and making a kicking motion,
 
 The action scene is a composite of the two characters.
 ```
+```
+이미지별 이름 추출하여 적용
+Configure 'Demon Slayer - Tanjiro Kamad' and 'Upper Rank Three Demon - Akaza' to match the actions in 'Stick Figure Battle'.
+
+'Demon Slayer - Tanjiro Kamad' is shown holding the sword on the right and making a kicking motion, while 'Upper Rank Three Demon - Akaza' is on the left, defending against the kick. This pose is suitable for martial arts.
+```
