@@ -26,3 +26,10 @@ The drone and ship move from the lower right to the lower left, resembling ballo
 - Style : digital camera
 - tone : Fresh
 ```
+```
+The drone and ship are connected by four strings, and the ship and drone are in a 1:1 ratio.
+The large drone is located in the upper right corner of the screen.
+The ship is located in the lower right corner of the screen.
+The drone is directly above the ship.
+The drone and ship move from the lower right to the lower left, resembling balloons.
+```
