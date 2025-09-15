@@ -7,6 +7,7 @@
 남들이 잘하는 것을 맹목적으로 따라가기보다, 자신만의 고유한 강점을 찾아보세요. 뛰어난 커뮤니케이션 능력, 문제 해결 능력, 혹은 특정 기술에 대한 깊은 지식 등, 여러분을 특별하게 만드는 요소들을 발견하고 이를 업무에 적극적으로 활용하세요.
 ```
 
+---
 
 ### 2. 레퍼런스 추출 : Gemini
 ```
@@ -29,11 +30,13 @@
 
 - 웹 문서(HTML): [위대한 프로덕트 오너가 되는 법](https://www.romanpichler.com/blog/becoming-a-great-product-owner/)
 
+---
 
 ### 3. 레퍼런스 요약 (notebookLM)
 #### 브리핑 문서 추출
 [notebookLM Link] (https://notebooklm.google.com/notebook/c3faf566-95eb-4e7b-b446-b45e6f0289dd)
 
+---
 
 ### 4. 검증 진행 (perplexity)
 ```
@@ -44,6 +47,7 @@ Prompt
 * 특정 인물명이나 지칭은 인칭대명사나 직종으로 대체 사용
 ```
 
+---
 
 ### 5. 평문 형태 변경 및 검증 진행(claude)
 ```
@@ -52,6 +56,7 @@ Prompt
 평문 형태의 나레이션으로 구성해줘.
 ```
 
+---
 
 ### 6. 스토리보드 및 나레이션 생성 (Gemini)
 ```
@@ -60,20 +65,20 @@ Prompt
 ```
 -> [storyboard.txt](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/storyboard.txt)
 
+---
 
 ### 7. 자막 파일 생성 (chatGPT)
 -> [script.txt](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/script.txt)
 
+---
 
 ### 8. speech file 생성 (AI Studio)
 -> [speech.wav](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/speech.wav)
 
+---
 
 ### 9. Scene image 생성 (gemini 오류로 nano banana로 생성)
 ![scene01](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene01.png "팀원들이 각자 다른 곳을 보며 혼란스러워하는 이미지")
-
 ![scene02](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene02.png "PO가 팀의 한가운데서 명확한 방향을 제시하는 제스처를 취하고 밝게 웃는 모습.")
-
 ![scene03](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene03.png "각 역량에 맞는 영상 자료들이 짧게 지나간다.")
-
 ![scene04](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene04.png "PO가 팀과 함께 성공적으로 제품을 론칭하며 환호하는 모습.")
