@@ -50,10 +50,16 @@ PDF: [프로덕트 오너 학습 경로](https://www.scrum.org/pathway/product-o
 ```
 유튜브 PD 20년차 전문가로서 다음 나레이션을 유튜브 쇼츠 30초 버전의 내용으로 대본 구성해주세요.
 ```
+[storyboard.txt](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/storyboard.txt)
+
 7. 자막 파일 생성 (chatGPT)
-[Script]()
+[script.txt](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/script.txt)
 
 8. speech file 생성 (AI Studio)
+[speech.wav](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/speech.wav)
 
-
-9. Scene image 생성
+9. Scene image 생성 (gemini 오류로 nano banana로 생성)
+[scene01](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene01.png)
+[scene02](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene02.png)
+[scene03](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene03.png)
+[scene04](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene04.png)
