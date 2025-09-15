@@ -61,7 +61,7 @@
 -> [speech.wav](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/speech.wav)
 
 ### 9. Scene image 생성 (gemini 오류로 nano banana로 생성)
-- [scene01](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene01.png)
-- [scene02](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene02.png)
-- [scene03](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene03.png)
-- [scene04](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene04.png)
+- [scene01](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene01.png) : 팀원들이 각자 다른 곳을 보며 혼란스러워하는 이미지.
+- [scene02](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene02.png) :  PO가 팀의 한가운데서 명확한 방향을 제시하는 제스처를 취하고 밝게 웃는 모습.
+- [scene03](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene03.png) : 각 역량에 맞는 영상 자료들이 짧게 지나간다.
+- [scene04](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/30_storyboard/scene04.png) : PO가 팀과 함께 성공적으로 제품을 론칭하며 환호하는 모습.
