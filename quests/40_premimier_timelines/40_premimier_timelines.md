@@ -13,9 +13,6 @@
 ```
 
 
-
-Frame Size : Horizon / Vertical
-
 ### 1. 신규 프로젝트 생성
 ```
 Project name 과 Project Location 선택
