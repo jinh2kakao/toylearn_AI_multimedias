@@ -28,23 +28,23 @@
 ```
 
 ### 2. Podcast 생성 (NotebookLM)
-```
+
 1. 레퍼런스 자료 입력
 2. AI 오디오 오버뷰 생성
 
-```
 
 ### 3. Storyboard 생성 (NotebookLM + Gemini)
-```
+
 1. 생성된 오디오 오버뷰 MP4 파일을 NotebookLM에 신규 프로젝트로 적용.
 2. 출처에서 나레이션 텍스트 확인
 3. Gemini에 텍스트 입력하여 대본 작성.
 
+```
 Prompt
 
 20년차 라디오 PD 전문가로서 podcast 대본 구성.
 ```
-[대본 링크 ->]()
+[대본 링크 ->](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/50_podcast/storyboard.md)
 
 ### 4-1. 캐릭터 1 이미지 생성 (Whisk)
 ```
