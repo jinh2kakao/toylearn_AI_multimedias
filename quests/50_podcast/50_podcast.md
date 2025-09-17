@@ -86,6 +86,7 @@ Prompt
 
 - style : disney 3d animation
 ```
+[배경 1 링크 ->](https://labs.google/fx/ko/tools/whisk/share/0h1f9f9qh0000)
 
 ### 5-2. 배경 생성 (Whisk)
 ```
@@ -93,3 +94,4 @@ Prompt
 2. 등록한 장면에서 prompt 확인
 3. prompt에서 피사체 묘사는 동일하게 두고 위치들만 재지정
 ```
+[배경 2 링크 ->](https://labs.google/fx/ko/tools/whisk/share/7bqc8aabk0000)
