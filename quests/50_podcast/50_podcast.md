@@ -122,3 +122,30 @@ speaker 2: Sadaltager
 2. sound track 생성
 3. 등장인물별 movie track 생성
 4. sound narration에 맞춰서 등장인물별 컷 이미지 배치
+
+### 9-1. whisk 동영상 생성
+
+```
+Prompt
+
+anthropomorphic rabbit이 말을 하면서 제스처를 하는 동안 anthropomorphic fox는 잘 들으면서 고개를 끄덕입니다.
+anthropomorphic fox가 말을 하면서 제스처를 하는 동안 anthropomorphic rabbit은 잘 들으면서 고개를 끄덕입니다.
+```
+```
+While the anthropomorphic rabbit is talking and gesturing, the anthropomorphic fox is listening and nodding.
+While the anthropomorphic fox is talking and gesturing, the anthropomorphic rabbit is listening and nodding.
+```
+
+### 9-2. Flow로도 동영상 생성
+- Veo3-Fast 로 생성
+- Whisk에서 생성한 Scene 이미지 첨부하여 생성 진행
+```
+Prompt
+
+anthropomorphic rabbit이 말을 하면서 제스처를 하는 동안 anthropomorphic fox는 잘 들으면서 고개를 끄덕입니다.
+anthropomorphic fox가 말을 하면서 제스처를 하는 동안 anthropomorphic rabbit은 잘 들으면서 고개를 끄덕입니다.
+```
+```
+While the anthropomorphic rabbit is talking and gesturing, the anthropomorphic fox is listening and nodding.
+While the anthropomorphic fox is talking and gesturing, the anthropomorphic rabbit is listening and nodding.
+```
