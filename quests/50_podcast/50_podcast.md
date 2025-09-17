@@ -112,7 +112,9 @@ Prompt
 20년차 라디오 방송 PD로서 podcast 대본 작성
 ```
 [스토리보드 링크->](./storyboard.md)
-2. (AI Studio) 대본으로 음성 생성
+2. (AI Studio) 대본으로 음성 생성 !!10분이상 생성시 에러 발생하거나 잘려서 생성됨.
+speaker 1: Zephyr
+speaker 2: Sadaltager
 [대본 링크 ->](./narration.md)
 
 ### 8. 프리미어 프로
