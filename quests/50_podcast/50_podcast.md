@@ -95,3 +95,12 @@ Prompt
 3. prompt에서 피사체 묘사는 동일하게 두고 위치들만 재지정
 
 [배경 2 링크 ->](https://labs.google/fx/ko/tools/whisk/share/7bqc8aabk0000)
+
+### 6. 캐릭터 배경 조합 이미지 생성 (Whisk)
+1. 등록된 피사체들의 이름을 확인
+```
+캐릭터 1 : anthropomorphic rabbit
+캐릭터 2 : anthropomorphic fox
+배경 1 : podcast studio
+배경 2 : broadcasting studio
+```
