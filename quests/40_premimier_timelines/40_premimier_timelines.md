@@ -84,10 +84,17 @@ Play하여 검증 (Space bar)
 2. Export 진행 (각 sequnce 별로 생성)
 ```
 
-### !추가 진행 사항
+### !추가 진행 사항 (나레이션 파일 자막 추출)
 ```
 1. gemini에서 나레이션 파일 첨부
 2. srt 파일로 translation 요청
 -> 첨부된 파일의 나레이션을 SRT 파일 형식으로 변환해줘.
 -> 아래 내용의 대본을 참조하여 Scene별로 생성해야 되요.
+```
+
+### !추추가 진행 사항 (자막을 그래픽으로 변경)
+```
+1. track 추가
+2. 기존 subtitle을 alt 키 활용하여 복제
+3. graphics and titles > upgrade to source graphic
 ```
