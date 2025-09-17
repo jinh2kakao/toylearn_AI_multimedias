@@ -104,3 +104,19 @@ Prompt
 배경 1 : podcast studio
 배경 2 : broadcasting studio
 ```
+2. 피사체+배경 조합 이미지 생성
+
+### 7. 오디오 생성 (Gemini + AI Studio)
+1. (Gemini) 스토리보드로 대본 작성
+```
+20년차 라디오 방송 PD로서 podcast 대본 작성
+```
+[스토리보드 링크->](./storyboard.md)
+2. (AI Studio) 대본으로 음성 생성
+[대본 링크 ->](./narration.md)
+
+### 8. 프리미어 프로
+1. source import
+2. sound track 생성
+3. 등장인물별 movie track 생성
+4. sound narration에 맞춰서 등장인물별 컷 이미지 배치
