@@ -12,6 +12,7 @@
 | 8 | 오디오 | 사운드 지시사항 | "잔잔한 BGM", "자연 소리", "무음" |
 | 9 | 모델명 | 사용할 AI 모델 명시 | "for Veo 3", "for Sora", "for Runway" |
 
+
 ## 🎨 스타일 및 분위기 키워드
 
 | 조명 키워드 | 색감 키워드 | 카메라 움직임 |
@@ -25,3 +26,8 @@
 | Studio lighting: 스튜디오 조명 | | |
 
 
+## 📚 프롬프트 템플릿
+
+| 기본 템플릿 | 인물 중심 영상 | 제품 소개 영상 | 자연 다큐멘터리 스타일 |
+| -- | -- | -- | -- |
+| [주제: 인물/대상] + [행동: 구체적 움직임] + [배경: 장소/시간/날씨] + [모션: 카메라 앵글] + [스타일: 시각적 분위기] + [구도: 화면 구성] + [오디오: 사운드 지시사항] + "for [AI 모델명]" | Young woman in elegant dress dancing gracefully in a moonlit garden, slow motion close-up shot, cinematic lighting with warm golden tones, centered composition, soft piano background music for Veo 3 | Luxury sports car rotating 360 degrees in modern showroom, dramatic lighting with blue and white spotlights, dynamic camera movement circling around the vehicle, sleek futuristic style, no audio for Veo 3 | Golden retriever running through autumn forest with falling leaves, drone aerial shot following the dog, warm sunset lighting, rule of thirds composition, ambient nature sounds for Veo 3 |
