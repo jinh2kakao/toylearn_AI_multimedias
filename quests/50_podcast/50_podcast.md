@@ -27,6 +27,7 @@
 남들이 잘하는 것을 맹목적으로 따라가기보다, 자신만의 고유한 강점을 찾아보세요. 뛰어난 커뮤니케이션 능력, 문제 해결 능력, 혹은 특정 기술에 대한 깊은 지식 등, 여러분을 특별하게 만드는 요소들을 발견하고 이를 업무에 적극적으로 활용하세요.
 ```
 
+
 ### 2. Podcast 생성 (NotebookLM)
 
 1. 레퍼런스 자료 입력
@@ -46,6 +47,7 @@ Prompt
 ```
 [대본 링크 ->](https://github.com/jinh2kakao/toylearn_AI_multimedias/blob/main/quests/50_podcast/storyboard.md)
 
+
 ### 4-1. 캐릭터 1 이미지 생성 (Whisk)
 ```
 Prompt
@@ -61,6 +63,7 @@ IT 기술자 토끼를 사람으로 의인화
 ```
 [캐릭터 1 링크 ->](https://labs.google/fx/ko/tools/whisk/share/184dggs6i0000)
 
+
 ### 4-2. 캐릭터 2 이미지 생성 (Whisk)
 ```
 Prompt
@@ -75,6 +78,7 @@ SD캐릭터 비율.
 ```
 [캐릭터 2 링크 ->](https://labs.google/fx/ko/tools/whisk/share/4sc14lcoo0000)
 
+
 ### 5-1. 배경 생성 (Whisk)
 ```
 Prompt
@@ -88,6 +92,7 @@ Prompt
 ```
 [배경 1 링크 ->](https://labs.google/fx/ko/tools/whisk/share/0h1f9f9qh0000)
 
+
 ### 5-2. 배경 생성 (Whisk)
 
 1. 5-1에서 생성한 배경을 장면에 등록
@@ -95,6 +100,7 @@ Prompt
 3. prompt에서 피사체 묘사는 동일하게 두고 위치들만 재지정
 
 [배경 2 링크 ->](https://labs.google/fx/ko/tools/whisk/share/7bqc8aabk0000)
+
 
 ### 6. 캐릭터 배경 조합 이미지 생성 (Whisk)
 1. 등록된 피사체들의 이름을 확인
@@ -105,6 +111,7 @@ Prompt
 배경 2 : broadcasting studio
 ```
 2. 피사체+배경 조합 이미지 생성
+
 
 ### 7. 오디오 생성 (Gemini + AI Studio)
 1. (Gemini) 스토리보드로 대본 작성
@@ -117,11 +124,13 @@ speaker 1: Zephyr
 speaker 2: Sadaltager
 [대본 링크 ->](./narration.md)
 
+
 ### 8. 프리미어 프로 기본 작업
 1. source import
 2. sound track 생성
 3. 등장인물별 movie track 생성
 4. sound narration에 맞춰서 등장인물별 컷 이미지 배치
+
 
 ### 9-1. whisk 동영상 생성
 
@@ -136,11 +145,13 @@ While the anthropomorphic rabbit is talking and gesturing, the anthropomorphic f
 While the anthropomorphic fox is talking and gesturing, the anthropomorphic rabbit is listening and nodding.
 ```
 
+
 ### 9-2. Flow로도 동영상 생성
 - Veo3-Fast 로 생성
 - Whisk에서 생성한 Scene 이미지 첨부하여 생성 진행
 
 [Prompt 링크 ->](character_prompt.md)
+
 
 ### 10. 프리미어 프로 영상 및 자막 
 1. Flow에 생성한 Secne별 이미지 source 삽입
