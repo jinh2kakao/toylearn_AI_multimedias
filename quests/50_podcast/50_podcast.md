@@ -117,7 +117,7 @@ speaker 1: Zephyr
 speaker 2: Sadaltager
 [대본 링크 ->](./narration.md)
 
-### 8. 프리미어 프로
+### 8. 프리미어 프로 기본 작업
 1. source import
 2. sound track 생성
 3. 등장인물별 movie track 생성
@@ -139,13 +139,15 @@ While the anthropomorphic fox is talking and gesturing, the anthropomorphic rabb
 ### 9-2. Flow로도 동영상 생성
 - Veo3-Fast 로 생성
 - Whisk에서 생성한 Scene 이미지 첨부하여 생성 진행
-```
-Prompt
 
-anthropomorphic rabbit이 말을 하면서 제스처를 하는 동안 anthropomorphic fox는 잘 들으면서 고개를 끄덕입니다.
-anthropomorphic fox가 말을 하면서 제스처를 하는 동안 anthropomorphic rabbit은 잘 들으면서 고개를 끄덕입니다.
-```
-```
-While the anthropomorphic rabbit is talking and gesturing, the anthropomorphic fox is listening and nodding.
-While the anthropomorphic fox is talking and gesturing, the anthropomorphic rabbit is listening and nodding.
-```
+[Prompt 링크 ->](character_prompt.md)
+
+### 10. 프리미어 프로 영상 및 자막 
+1. Flow에 생성한 Secne별 이미지 source 삽입
+2. Movie source들을 씬별로 맞춰서 배치
+3. 필요한 경우 movie reverse 하여 씬 내에서 연결
+4. (gemini) 오디오 소스파일 첨부하여 자막 생성
+5. 자막 srt 파일 source import
+6. 음성에 맞춰서 자막 sync
+
+
