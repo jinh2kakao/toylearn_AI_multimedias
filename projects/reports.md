@@ -147,6 +147,14 @@
 - [이미지->](../projects/scene12/AI쥐불놀이.jpeg)
 - [movie_prompt->](../projects/scene12/movie_prompt.md)
 
+**12-13. bridge**
+```
+A rapid dolly zoom-out reveals the entire festival scene is actually a flawless, high-resolution video playing on a sleek, bezel-less tablet. The loud festival audio instantly becomes muffled and tinny, as if coming from small speakers. The tablet is being held by someone (we only see their hands) in a modern, dimly lit living room at night.
+```
+```
+The tablet screen view instantly switches to a live feed from a home security camera. The visual style changes to a high-angle, wide-lens shot with a slightly lower bitrate and a "LIVE ●" indicator in the corner. We see an elderly woman (the grandmother from Image #13) sitting peacefully in her traditional, warmly lit room. After a moment, the sleek, white care robot (from Image #13) glides silently into the camera's view, holding a tray with a glass of water.
+```
+
 13. Ai가 방문쪽으로 가는 샷 (붐다운 및 슬라이드 물을 들고있는 손까지만) 타이트샷
 방문을 열고 나오는 노인의 무표정한 얼굴
 ```
