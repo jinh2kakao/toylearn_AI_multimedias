@@ -1,6 +1,8 @@
 
 ## 주제 : 정(情), AI의 심장이 되다. (가제)
 
+
+
 ### 00. 기본 스토리보드
 
 [스토리보드 초안 링크 ->](storyboard.md)
@@ -16,6 +18,7 @@
 강아지 둘이서 동시에 혀 내밀기 (바스트 투샷)
 - [이미지->](../projects/scene01/AI강아지.jpeg) 
 - [movie_prompt->](../projects/scene01/movie_prompt.md)
+- [나레이션->](../projects/narration/scene_01_narration.wav)
 
 2. **완료** (ai 없이) 문을 여는 학생 풀샷 + 도어락에선 날씨를 알리려는 빛이 나오고 문을 여는 순간 바닥에서 ai가 나온다 (풀샷) [AI 띠링소리]
 ```
@@ -43,6 +46,7 @@
 4. **완료** AI 도우미 로봇과 함께하는 김장김치 - 할머니와 아빠가 아이를 봤다가 셋이서 ai를 보고 다같이 웃는 풀샷
 - [이미지->](../projects/scene04/AI김장.jpeg)
 - [movie_prompt->](../projects/scene04/movie_prompt.md)
+- [나레이션 ->](../projects/narration/scene_04_narration.wav)
 
 5. **완료** 할아버지와 ai가 장기판을 사이에 두고 ai가 어디를 둘지 고르고 있는 풀샷
 ```
@@ -72,6 +76,7 @@
 ```
 - [이미지->](../projects/scene07/AI강강술래.jpeg)
 - [movie_prompt->](../projects/scene07/movie_prompt.md)
+- [나레이션->](../projects/narration/scene_07_narration.wav)
 
 8. **완료** AI손목시계를 보다가도, 아파트 엘리베이터에서 만난 키 작은 아이에게 방긋 웃어주며 손인사를 한다. 
 ```
@@ -113,6 +118,7 @@
 - AI 얼굴 타이트샷에서 AI 눈으로 들어가는 패스트 줌인 샷 (쥐불놀이 사이즈)
 ```
 - [이미지->](AI망원경.jpeg)
+- [나레이션->](../projects/narration/scene_11_narration.wav)
 
 12. **완료** 어린아이가 쥐불놀이를 ai 로봇에게 알려준다.
 ```
@@ -134,18 +140,7 @@
 할머니가 책을 펼치고 홀로그램이 나오자 둘이서 홀로그램 봤다가 서로 마주보고 웃은 후 둘다 홀로그램으로 시선가는  샷 (이미지 사이즈 그대로 풀샷)
 ```
 - [이미지->](AI호랑이.jpeg)
-
-
-
-
-황병익님.
-
-
-
-
-
-
-
+- [나레이션->](../projects/narration/scene_14_narration.wav)
 
 
 황지상.
