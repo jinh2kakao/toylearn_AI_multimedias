@@ -22,7 +22,8 @@
 - [이미지04->](../projects/scene08/AI엘리베이터_04.jpeg)
 - [movie_prompt->](../projects/scene08/movie_prompt.md)
 2. 어린아이가 쥐불놀이를 ai 로봇에게 알려준다.[이미지->](AI쥐불놀이.jpeg)
-3. 어린아이와 어른들 여럿이 모여서 ai로봇과 함께 강강술레를 한다.[이미지->](AI강강술래.jpeg)
+3. 어린아이와 어른들 여럿이 모여서 ai로봇과 함께 강강술레를 한다.[이미지->](../projects/scene04/AI김장.jpeg)
+- [movie_prompt->](../projects/scene04/movie_prompt.md)
 4. 첨성대 주변에서 망원경을 보는 방법을 ai로봇이 어린 아이에게 알려준다.[이미지->](AI망원경.jpeg)
 
 
