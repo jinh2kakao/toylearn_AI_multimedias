@@ -46,10 +46,17 @@
 
 황병익님.
 
-10. 동네 정자 (or 종묘앞)에서 AI로봇과 함께 장기를 두는 어르신 [이미지->](../projects/scene05/AI바둑.jpeg)
+10. 동네 정자 (or 종묘앞)에서 AI로봇과 함께 장기를 두는 어르신
+- [이미지->](../projects/scene05/AI바둑.jpeg)
+- [이미지_01->](../projects/scene05/AI바둑_01.jpeg)
+- [이미지_02->](../projects/scene05/AI바둑_02.jpeg)
+- [이미지_03->](../projects/scene05/AI바둑_03.jpeg)
 - [movie_prompt->](../projects/scene05/movie_prompt.md)
 
-11. 외국인이 AI로봇에게 탈춤을 배우는 모습 [이미지->](AI탈춤.jpeg)
+11. 외국인이 AI로봇에게 탈춤을 배우는 모습 
+- [이미지->](../projects/scene06/AI탈춤.jpeg)
+- [movie_prompt->](../projects/scene06/movie_prompt.md)
+
 12. 무심코 뜨거운 커피를 마시려는 노인에게 온도를 알려주는 AI 손목시계 [이미지->](AI손목시계.jpeg)
 13. 우산을 안가져가고 나가려는 학생에게 날씨를 알려주는 AI 도어락 
 - [이미지->](AI도어락.jpeg)
