@@ -58,17 +58,7 @@ A tight shot focusing on the man's face. He is looking down slightly (towards th
 Shot #1: 시선의 이동 (Full Shot)
 프롬프트:
 
-(Shot Type & Style): A cinematic, photorealistic, 4K video. The scene opens with a perfectly stable, over-the-shoulder full shot from behind a man standing before the open doors of a futuristic elevator. The aesthetic is clean, minimalist, and slightly sterile, contrasting with the human element.
-
-(Scene Description & Action Sequence):
-
-(Initial State): The camera's focus is initially razor-sharp on the man in the foreground. He is looking down intently at his AI smartwatch. The watch face is not a simple screen but a glowing, intricate blue holographic display, reminiscent of a sophisticated AI interface like JARVIS, casting a subtle cyan light onto his wrist and sleeve.
-
-(0 to 2 seconds): He slowly and deliberately lifts his head, his attention being drawn away from the data on his wrist towards the scene down the long corridor before him.
-
-(2 to 5 seconds): As his head rises, the camera executes a flawless and elegant focus pull (rack focus). The shallow depth of field smoothly shifts, transitioning the focal plane from the intricate details of the man and his holographic watch in the foreground to the distant background.
-
-(5 to 8 seconds): Now in sharp focus at the end of the long, brightly-lit white hallway is a small boy, running with joyful abandon directly towards the elevator. His arms are outstretched to his sides like airplane wings, his face alight with pure, energetic glee. The sterile environment is filled with his vibrant, innocent energy. The camera remains perfectly still, emphasizing that this is not a camera movement, but a profound and deliberate shift in the man's point of view—from the world of data to a moment of human connection.
+Animate the reference image. This is a four-second video clip. It's a full-body, over-the-shoulder shot from behind a man. He slowly looks up from his glowing AI wristwatch, which displays the word "KID" as a hologram. As he looks up, the focus elegantly shifts from the man in the foreground to a small boy running down a long hallway toward the elevator. The boy runs with his arms outstretched, filled with pure energy. The camera remains steady, emphasizing the shift in the man's gaze.
 
 
 

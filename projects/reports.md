@@ -1,5 +1,5 @@
 
-## 주제 : <AI, 새로운 정을 채우다 (AI, Fills with a New 'Jeong')>
+## 주제 : <AI, 새로운 정을 채우다. (AI, Fills with a New 'Jeong')>
 
 **작품 형식:**  AI 생성 이미지를 활용한 2분 내외의 옴니버스 단편 영화
 
@@ -28,6 +28,7 @@
 
 - **각 스토리별 이미지 구성 (R&R)**
 - **이미지 구성 공통 Prompt** : cinematic, Warm tones, Cinematic lighting,  optimistic mood
+- **음향:** [음원 최종->](SP_음원_최종.mp4)
 
 
 1. **완료** 셋이서 동시에 고개를 드는 강아지, ai 강아지 (강아지 끼잉 소리) 풀샷
@@ -154,6 +155,7 @@ A rapid dolly zoom-out reveals the entire festival scene is actually a flawless,
 ```
 The tablet screen view instantly switches to a live feed from a home security camera. The visual style changes to a high-angle, wide-lens shot with a slightly lower bitrate and a "LIVE ●" indicator in the corner. We see an elderly woman (the grandmother from Image #13) sitting peacefully in her traditional, warmly lit room. After a moment, the sleek, white care robot (from Image #13) glides silently into the camera's view, holding a tray with a glass of water.
 ```
+- [이미지->](../projects/scene12/12-13_bridge.jpeg)
 
 13. Ai가 방문쪽으로 가는 샷 (붐다운 및 슬라이드 물을 들고있는 손까지만) 타이트샷
 방문을 열고 나오는 노인의 무표정한 얼굴
@@ -162,6 +164,8 @@ The tablet screen view instantly switches to a live feed from a home security ca
 - 방문을 열고 나오는 노인의 무표정한 얼굴 (타이트샷)
 - 노인이 나오고 나서 서빙로봇이 왼쪽에서 프레임인, 노인이 로봇을 보고 표정이 밝아진다 (풀샷)
 ```
+- [이미지->](../projects/scene13/13.%20물떠주는%20로봇.png)
+- [movie_prompt->](../projects/scene13/movie_prompt.md)
 
 14. **완료** 태블릿을 보며 손자에게 옛날이야기를 들려준다. (홀로그램으로 보여주는 담배피는 호랑이)
 ```
@@ -172,15 +176,10 @@ The tablet screen view instantly switches to a live feed from a home security ca
 - [나레이션->](../projects/narration/scene_14_narration.wav)
 
 
-황지상.
-
-14. 목이 말라 방에서 나와 물을 마시려고 주방으로 걸어가는 노인에게 건네는 AI 서빙로봇 [이미지->]()
-15. 주변에 비웅덩이를 알려주는 AI 안경 [이미지->]()
-
 
 ### 02. 각 scene별 영상 제작
 
 - 영상 제작 : flow AI(veo3-fast), hailuo AI, Adobe Premeier
 - 이미지 제작 : Whisk
 - Prompt : Gemini, ChatGPT
-- 음향 제작 : Google AI Studio, 
+- 음향 제작 : Google AI Studio, MusicFX
