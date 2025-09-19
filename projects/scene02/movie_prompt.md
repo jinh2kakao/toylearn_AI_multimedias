@@ -9,6 +9,7 @@
 03~08 sec : 홀로그램에서 날씨를 확인하고 우산을 챙긴다.
 ```
 
+### 제작 : hailuo.video
 ```[Master Prompt]
 (Shot Type): A clean, cinematic medium wide shot. The camera is static, capturing the entire entryway.
 

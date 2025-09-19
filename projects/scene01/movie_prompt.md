@@ -6,6 +6,8 @@ Scene 1
 00~03 sec: 아이, 강아지, 로봇강아지가 고개를 위로 올린다.
 00~08 sec: 강아지와 강아지 로봇은 입을 벌리고 혀를 내민다.(강아지 끼잉되는 소리) / 아이는 천천히 일어난다.(아이 옹앙되는 소리)
 ```
+
+### 제작 : hailuo.video
 ```
 [Master Prompt]
 (Shot Type): A photorealistic, cinematic low-angle shot, eye-level with the subjects on the floor.
