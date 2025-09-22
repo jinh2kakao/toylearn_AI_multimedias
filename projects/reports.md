@@ -180,6 +180,6 @@ The tablet screen view instantly switches to a live feed from a home security ca
 ### 02. 각 scene별 영상 제작
 
 - 영상 제작 : flow AI(veo3-fast), hailuo AI, Adobe Premeier
-- 이미지 제작 : Whisk
+- 이미지 제작 : Whisk, Lovart
 - Prompt : Gemini, ChatGPT
 - 음향 제작 : Google AI Studio, MusicFX
