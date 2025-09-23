@@ -2,7 +2,29 @@ AI 요정 '토리' (Tori) 이미지 프롬프트
 
 캐릭터 컨셉: 데이터와 빛으로 이루어진, 논리적이지만 길을 잃어 외로운 AI 요정 
 
+```
+A small, ethereal AI fairy named Tori , who has appeared from a blinking light on a tablet screen. She is composed of translucent, shimmering data streams and soft blue light, giving her a holographic appearance. Tori has a vaguely humanoid shape with delicate, glowing wings, and her face shows a sad expression because she is lost. She is trapped within the digital world of the tablet. 
 
+Her form is described as being a "fairy".
+
+She is an AI fairy from the network world, composed of an endless flow of data.
+
+
+- background: green
+- text: none
+```
+
+```
+AI 동영상 제작을 위한 Movie Prompt (토리 ver.)
+1. 기본 프롬프트 (Basic Prompt)
+캐릭터의 핵심적인 특징에 집중한 간결한 프롬프트입니다.
+
+An animation of an ethereal AI fairy character named Tori. She is made of glowing blue light and translucent data, with delicate fairy wings. Standing on a tablet screen, she talks with a sad expression. Her mouth moves gently as she speaks. The animation is a short, seamless loop against a simple green background. The art style is glowing digital fantasy.
+2. 상세 프롬프트 (Detailed Prompt)
+캐릭터의 독특한 질감과 분위기를 극대화하여 영상의 완성도를 높이는 전문가용 프롬프트입니다.
+
+full-body shot of a beautiful, ethereal AI fairy named Tori, 2D animation. Her body is translucent and holographic, composed of shimmering blue light and visible streams of binary code. She has large, sad eyes and delicate, glowing butterfly wings. She stands on a luminous pedestal projected from a tablet screen, talking softly with subtle mouth movements. Glowing data particles and sparkles drift around her as her wings flutter gently. The animation is a perfect, seamless loop. The art style is ethereal fantasy digital art, high detail. The primary light source is Tori herself, casting a soft blue glow.
+```
 
 Basic Prompt (기본 프롬프트)
 A small, ethereal AI fairy named Tori , who has appeared from a blinking light on a tablet screen. She is composed of translucent, shimmering data streams and soft blue light, giving her a holographic appearance. Tori has a vaguely humanoid shape with delicate, glowing wings, and her face shows a sad expression because she is lost[cite: 10, 11]. She is trapped within the digital world of the tablet. The art style is digital and ethereal, with glowing effects and data particles floating around her.
