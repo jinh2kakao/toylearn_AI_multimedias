@@ -70,6 +70,7 @@ MD 파일 형식으로 정리.
 ```
 
 ## 03. 컨셉이미지 제작
+-> Whisk
 ```
 Prompt
 
@@ -93,3 +94,6 @@ Color Palette: Primarily oceanic blues and teals, faded colors reminiscent of an
 
 Camera: Utilize a variety of cinematic angles appropriate for each scene's direction, including close-ups, wide shots, and panning views.
 ```
+
+## 04. 동영상 프롬프트 생성 후 동영상 제작
+-> Flow (veo3-fast)
