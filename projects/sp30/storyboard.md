@@ -9,6 +9,7 @@ image prompt
 
 Makoto Shinkai anime style, anime screencap, key visual, extreme close-up, silver fishing reel, spinning fast, cinematic motion blur, glowing fishing line, brilliant sunlight, dramatic lens flare, vibrant colors, detailed anime background, bokeh ocean, sparkling water, masterpiece, 8k, --ar 9:16
 ```
+[image output-whisk](./projects/sp30/images/s1-c1-1.jpeg)
 
 - ### CUT 1-2 (2-4초)
 
@@ -20,6 +21,7 @@ image prompt
 
 Makoto Shinkai anime style, anime key visual. A medium shot of a sleek black Bluetooth speaker on a detailed wooden boat deck. The speaker is dynamically vibrating with bass as crystal clear water droplets splash around it. Brilliant sunlight creates beautiful specular highlights on the speaker and the glistening water. Vibrant anime colors, masterpiece, cinematic.
 ```
+[image output-whisk](./images/s1-c1-2.jpeg)
 
 - ### CUT 1-3 (4-6초)
 
@@ -37,6 +39,7 @@ image prompt
 
 Makoto Shinkai anime style, focusing on hyper-detailed anime food. An extreme close-up of delicious looking Korean ramen sizzling on a portable gas burner. Billowing, volumetric steam rises and catches the golden hour light, creating a dreamy, luminous effect. Vibrant colors and detailed reflections shimmer in the broth. Theatrical animation quality, masterpiece.
 ```
+[image output-whisk](./images/s1-c1-3.jpeg)
 
 ## SCENE 2: 숨겨진 위험 (6-16초)
 - ### CUT 2-1 (6-9초)
@@ -47,6 +50,7 @@ Makoto Shinkai anime style, focusing on hyper-detailed anime food. An extreme cl
 ```
 Makoto Shinkai anime style, anime screencap with a tense atmosphere. On the deck of a gently rocking leisure boat, with the deep blue ocean visible in the background. A medium shot shows a portable gas burner, **on which a pot of delicious Korean ramen is boiling, with bubbling red broth and noodles visible.** The camera pans slightly to reveal a spare butane gas canister placed dangerously close to the open flame. High-contrast sunlight casts a dramatic shadow over the canister, creating a sense of unease amidst the vibrant colors of the sea and sky.
 ```
+[image output-whisk](./images/s2-c2-1.jpeg)
 
 - ### CUT 2-2 (9-12초)
 
@@ -58,6 +62,7 @@ image prompt
 
 Makoto Shinkai anime style, key visual. A top-down shot of a chaotic tangle of black charging cables and colorful fishing lines on a wet boat deck. A dynamic splash of seawater is captured in high detail, with individual glistening droplets frozen in mid-air by the brilliant sunlight. Ultra-detailed, vibrant colors.
 ```
+[image output-whisk](./images/s2-c2-2.jpeg)
 
 - ### CUT 2-3 (12-16초)
 
@@ -69,6 +74,7 @@ image prompt
 
 Makoto Shinkai anime style, anime screencap. An extreme close-up on a can of korean beer(TERRA), covered in hyper-detailed condensation droplets. The can is placed precariously next to a boat's throttle controls. Dramatic lighting creates a sharp specular highlight on the can, emphasizing it as a point of risk. Sense of impending danger.
 ```
+[image output-whisk](./images/s2-c2-3.jpeg)
 
 ## SCENE 3: 진짜 필수 장비 (16-26초)
 - ### CUT 3-1 (16-19초)
@@ -81,6 +87,7 @@ image prompt
 
 Makoto Shinkai anime style, key visual. **Inside a boat's wheelhouse (pilothouse),** a heroic low-angle shot of a bright orange life jacket hanging neatly against a wall. **Brilliant morning sun streams through the large windows of the wheelhouse,** backlighting the life jacket and creating a luminous, hopeful glow that makes it look powerful and important. The texture of the fabric is drawn in beautiful detail. **In the soft-focus background, complex navigation equipment and the ship's wheel are visible.** Clean lines, vibrant colors.
 ```
+[image output-whisk](./images/s3-c3-1.jpeg)
 
 - ### CUT 3-2 (19-22초)
 
@@ -92,6 +99,7 @@ image prompt
 
 Makoto Shinkai anime style, anime screencap. A slow, cinematic push-in shot on a Korean red fire extinguisher mounted securely inside the boat. The lighting is soft and focused, highlighting its sturdy and reliable presence. Detailed logos and instruction labels are visible.
 ```
+[image output-whisk](./images/s3-c3-2.jpeg)
 
 - ### CUT 3-3 (22-26초)
 
@@ -103,6 +111,7 @@ image prompt
 
 Makoto Shinkai anime style. An extreme close-up of a smartphone screen, safe inside a waterproof pouch. The screen is brightly lit, displaying the colorful map and interface of the 'Haeroad' safety app. The background is a soft-focus, sparkling ocean. Luminous and clear.
 ```
+[image output-whisk](./images/s3-c3-3.jpeg)
 
 ## SCENE 4: 보이지 않는 승무원의 활동 (26-46초)
 - ### CUT 4-1 (26-30초)
@@ -115,6 +124,7 @@ image prompt
 
 Makoto Shinkai anime style. A close-up shot focusing on a pair of anonymous hands. The hands decisively move a butane gas canister away from a heat source and place it into a shaded, safe storage compartment on the boat. The action is clear and purposeful. Cel-shaded, clean animation style.
 ```
+[image output-whisk](./images/s4-c4-1.jpeg)
 
 - ### CUT 4-2 (30-34초)
 
@@ -126,6 +136,7 @@ image prompt
 
 Makoto Shinkai anime style. A satisfying top-down shot of hands neatly coiling tangled cables and securing them with a tie. The chaotic mess becomes organized and safe. The colors are bright and clear, conveying a sense of order.
 ```
+[image output-whisk](./images/s4-c4-2.jpeg)
 
 - ### CUT 4-3 (34-38초)
 
@@ -137,6 +148,7 @@ image prompt
 
 Makoto Shinkai anime style, anime screencap. A medium shot focusing on the **boat's cockpit area, right next to the throttle controls.** A hand reaches in, picks up a can of korean beer, and replaces it with a bottle of korean mineral water. **Sunlight streams through the windscreen,** glinting off the water bottle and creating a bright highlight on the clean, metallic throttle lever. The action feels refreshing and responsible.
 ```
+[image output-whisk](./images/s4-c4-3.jpeg)
 
 - ### CUT 4-4 (38-46초)
 
@@ -150,6 +162,7 @@ image prompt
 
 Makoto Shinkai anime style, anime screencap. An extreme close-up, satisfying shot of hands zipping up a life jacket all the way to the top. The 'click' of the buckle fastening is visually implied. The focus is on the secure and safe feeling of the action. Masterpiece quality.
 ```
+[image output-whisk](./images/s4-c4-4.jpeg)
 
 ## SCENE 5: 결과 (46-52초)
 - ### CUT 5-1 (46-49초)
@@ -162,6 +175,7 @@ image prompt
 
 Makoto Shinkai anime style, anime screencap. key visual. A beautiful and serene medium wide shot of the organized deck of a sleek, white yacht, anime style. All leisure equipment is neatly stored: fishing rods are secured, cables are coiled, and the cockpit area is clean. The atmosphere is calm and safe, with warm afternoon sunlight casting soft shadows on the clean teak deck. 
 ```
+[image output-whisk](./images/s5-c5-1.jpeg)
 
 - ### CUT 5-2 (49-52초)
 
@@ -173,6 +187,7 @@ image prompt
 
 Makoto Shinkai anime style, key visual. The camera smoothly pulls out from the deck to reveal the entire **beautiful, white yacht** sailing on a peaceful, sparkling blue ocean. The shot transitions to a majestic wide view. The sky above is vast and filled with dramatic, beautifully rendered clouds, with sun rays breaking through. The scene is epic, serene, and breathtaking.
 ```
+[image output-whisk](./images/s5-c5-2.jpeg)
 
 ## SCENE 6: 결론 (52-59초)
 - ### CUT 6-1 (52-59초)
@@ -191,3 +206,4 @@ Makoto Shinkai anime style, key visual. The camera smoothly pulls out from the d
 ```
 Makoto Shinkai anime style, epic drone shot. The safe and organized boat cuts cleanly through the vast, beautiful blue ocean towards a brilliant sunrise. The sky is filled with dramatic, luminous clouds and light rays. A breathtaking and hopeful final image. Theatrical animation quality, 8k.
 ```
+[image output-whisk](./images/s6-c6.jpeg)
