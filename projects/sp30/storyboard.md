@@ -88,6 +88,8 @@ Makoto Shinkai anime style, key visual. **Inside a boat's wheelhouse (pilothouse
 
     - 내레이션: 가장 먼저 챙겨야 할
 ```
+image prompt
+
 Makoto Shinkai anime style, anime screencap. A slow, cinematic push-in shot on a Korean red fire extinguisher mounted securely inside the boat. The lighting is soft and focused, highlighting its sturdy and reliable presence. Detailed logos and instruction labels are visible.
 ```
 
@@ -97,6 +99,8 @@ Makoto Shinkai anime style, anime screencap. A slow, cinematic push-in shot on a
 
     - 내레이션: 진짜 필수 장비들
 ```
+image prompt
+
 Makoto Shinkai anime style. An extreme close-up of a smartphone screen, safe inside a waterproof pouch. The screen is brightly lit, displaying the colorful map and interface of the 'Haeroad' safety app. The background is a soft-focus, sparkling ocean. Luminous and clear.
 ```
 
@@ -106,12 +110,22 @@ Makoto Shinkai anime style. An extreme close-up of a smartphone screen, safe ins
     - 영상: [Close Up] 익명의 손이 나타나 버너 옆에 있던 부탄가스를 집어 멀리 떨어진 그늘진 수납공간에 넣는다.
 
     - 음향: 다시 세련된 리듬의 BGM 시작.
+```
+image prompt
+
+Makoto Shinkai anime style. A close-up shot focusing on a pair of anonymous hands. The hands decisively move a butane gas canister away from a heat source and place it into a shaded, safe storage compartment on the boat. The action is clear and purposeful. Cel-shaded, clean animation style.
+```
 
 - ### CUT 4-2 (30-34초)
 
     - 영상: [Top-down Shot] 다른 손이 뒤엉킨 케이블들을 깔끔하게 말아서 정리한다.
 
     - 내레이션: 레저의 고수는 안전의 고수입니다.
+```
+image prompt
+
+Makoto Shinkai anime style. A satisfying top-down shot of hands neatly coiling tangled cables and securing them with a tie. The chaotic mess becomes organized and safe. The colors are bright and clear, conveying a sense of order.
+```
 
 - ### CUT 4-3 (34-38초)
 
