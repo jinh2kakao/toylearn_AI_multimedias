@@ -4,12 +4,22 @@
     - 영상: [Extreme Close Up] 낚싯줄이 팽팽하게 당겨지며 릴이 '파르륵' 소리를 내며 빠르게 돌아간다.
 
     - 음향: 신나고 역동적인 힙합 비트 BGM 시작. SFX(릴 돌아가는 소리).
+```
+image prompt
+
+Makoto Shinkai anime style, anime screencap, key visual, extreme close-up, silver fishing reel, spinning fast, cinematic motion blur, glowing fishing line, brilliant sunlight, dramatic lens flare, vibrant colors, detailed anime background, bokeh ocean, sparkling water, masterpiece, 8k, --ar 9:16
+```
 
 - ### CUT 1-2 (2-4초)
 
     - 영상: [Medium Shot] 보트 바닥에 놓인 블루투스 스피커가 비트에 맞춰 '쿵쿵' 울린다. 스피커 위로 물방울이 튀는 모습.
 
     - 음향: BGM의 베이스가 강조됨.
+```
+image prompt
+
+Makoto Shinkai anime style, anime key visual. A medium shot of a sleek black Bluetooth speaker on a detailed wooden boat deck. The speaker is dynamically vibrating with bass as crystal clear water droplets splash around it. Brilliant sunlight creates beautiful specular highlights on the speaker and the glistening water. Vibrant anime colors, masterpiece, cinematic.
+```
 
 - ### CUT 1-3 (4-6초)
 
@@ -21,6 +31,11 @@
 ```
 #바다 #주말 #힐링
 우리가 챙겨온 즐거움들
+```
+```
+image prompt
+
+Makoto Shinkai anime style, focusing on hyper-detailed anime food. An extreme close-up of delicious looking Korean ramen sizzling on a portable gas burner. Billowing, volumetric steam rises and catches the golden hour light, creating a dreamy, luminous effect. Vibrant colors and detailed reflections shimmer in the broth. Theatrical animation quality, masterpiece.
 ```
 
 ## SCENE 2: 숨겨진 위험 (6-16초)
