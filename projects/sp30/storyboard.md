@@ -132,6 +132,11 @@ Makoto Shinkai anime style. A satisfying top-down shot of hands neatly coiling t
     - 영상: [Medium Shot] 또 다른 손이 술캔을 치우고, 그 자리에 뚜껑이 닫힌 생수병을 놓는다. 
 
     - 내레이션: 우리는 모두 서로의
+```
+image prompt
+
+Makoto Shinkai anime style, anime screencap. A medium shot focusing on the **boat's cockpit area, right next to the throttle controls.** A hand reaches in, picks up a can of korean beer, and replaces it with a bottle of korean mineral water. **Sunlight streams through the windscreen,** glinting off the water bottle and creating a bright highlight on the clean, metallic throttle lever. The action feels refreshing and responsible.
+```
 
 - ### CUT 4-4 (38-46초)
 
@@ -140,6 +145,11 @@ Makoto Shinkai anime style. A satisfying top-down shot of hands neatly coiling t
     - 음향: SFX(지퍼 올리는 소리, 버클 채우는 소리)가 선명하게 들림.
 
     - 내레이션: **'보이지 않는 승무원'**입니다.
+```
+image prompt
+
+Makoto Shinkai anime style, anime screencap. An extreme close-up, satisfying shot of hands zipping up a life jacket all the way to the top. The 'click' of the buckle fastening is visually implied. The focus is on the secure and safe feeling of the action. Masterpiece quality.
+```
 
 ## SCENE 5: 결과 (46-52초)
 - ### CUT 5-1 (46-49초)
@@ -147,12 +157,22 @@ Makoto Shinkai anime style. A satisfying top-down shot of hands neatly coiling t
     - 영상: [Medium Shot] 모든 위험 요소가 사라진, 깔끔하고 정돈된 보트 위의 모습.
 
     - 음향: BGM이 안정되고 만족스러운 톤으로 전환됨.
+```
+image prompt
+
+Makoto Shinkai anime style, anime screencap. key visual. A beautiful and serene medium wide shot of the organized deck of a sleek, white yacht, anime style. All leisure equipment is neatly stored: fishing rods are secured, cables are coiled, and the cockpit area is clean. The atmosphere is calm and safe, with warm afternoon sunlight casting soft shadows on the clean teak deck. 
+```
 
 - ### CUT 5-2 (49-52초)
 
     - 영상: 카메라가 부드럽게 뒤로 빠지면서(Pull-out) 평화로운 바다와 함께 안전한 보트의 전경을 보여준다.
 
     - 자막: 안전이 확보될 때 즐거움은 완성됩니다.
+```
+image prompt
+
+Makoto Shinkai anime style, key visual. The camera smoothly pulls out from the deck to reveal the entire **beautiful, white yacht** sailing on a peaceful, sparkling blue ocean. The shot transitions to a majestic wide view. The sky above is vast and filled with dramatic, beautifully rendered clouds, with sun rays breaking through. The scene is epic, serene, and breathtaking.
+```
 
 ## SCENE 6: 결론 (52-59초)
 - ### CUT 6-1 (52-59초)
@@ -167,4 +187,7 @@ Makoto Shinkai anime style. A satisfying top-down shot of hands neatly coiling t
 당신이 바로 '보이지 않는 승무원'입니다.
 
 [해양수산부 / 해양안전실천본부 로고]
+```
+```
+Makoto Shinkai anime style, epic drone shot. The safe and organized boat cuts cleanly through the vast, beautiful blue ocean towards a brilliant sunrise. The sky is filled with dramatic, luminous clouds and light rays. A breathtaking and hopeful final image. Theatrical animation quality, 8k.
 ```
