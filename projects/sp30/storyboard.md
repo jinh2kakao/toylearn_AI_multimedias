@@ -44,12 +44,20 @@ Makoto Shinkai anime style, focusing on hyper-detailed anime food. An extreme cl
     - 영상: [Medium Shot] 카메라가 끓고 있는 버너에서 옆으로 천천히 이동(Pan)하면, 바로 옆에 예비 부탄가스가 놓여있는 위험한 모습이 보인다.
 
     - 음향: BGM 비트만 남고, '삐-'하는 불안한 노이즈 추가.
+```
+Makoto Shinkai anime style, anime screencap with a tense atmosphere. On the deck of a gently rocking leisure boat, with the deep blue ocean visible in the background. A medium shot shows a portable gas burner, **on which a pot of delicious Korean ramen is boiling, with bubbling red broth and noodles visible.** The camera pans slightly to reveal a spare butane gas canister placed dangerously close to the open flame. High-contrast sunlight casts a dramatic shadow over the canister, creating a sense of unease amidst the vibrant colors of the sea and sky.
+```
 
 - ### CUT 2-2 (9-12초)
 
     - 영상: [Top-down Shot] 바닥에 어지럽게 뒤엉킨 고프로 충전 케이블과 낚싯줄 위로 바닷물이 살짝 튀어 들어온다.
 
     - 음향: SFX(물 튀는 소리)가 날카롭게 들림.
+```
+image prompt
+
+Makoto Shinkai anime style, key visual. A top-down shot of a chaotic tangle of black charging cables and colorful fishing lines on a wet boat deck. A dynamic splash of seawater is captured in high detail, with individual glistening droplets frozen in mid-air by the brilliant sunlight. Ultra-detailed, vibrant colors.
+```
 
 - ### CUT 2-3 (12-16초)
 
