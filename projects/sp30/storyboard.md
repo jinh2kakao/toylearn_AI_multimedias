@@ -64,6 +64,11 @@ Makoto Shinkai anime style, key visual. A top-down shot of a chaotic tangle of b
     - 영상: [Close Up] 보트 운전석(스로틀 레버) 바로 옆에 마시다 만 술캔이 위태롭게 놓여 있다.
 
     - 자막: 하지만, 우리가 놓치고 있는 것들
+```
+image prompt
+
+Makoto Shinkai anime style, anime screencap. An extreme close-up on a can of korean beer(TERRA), covered in hyper-detailed condensation droplets. The can is placed precariously next to a boat's throttle controls. Dramatic lighting creates a sharp specular highlight on the can, emphasizing it as a point of risk. Sense of impending danger.
+```
 
 ## SCENE 3: 진짜 필수 장비 (16-26초)
 - ### CUT 3-1 (16-19초)
@@ -71,18 +76,29 @@ Makoto Shinkai anime style, key visual. A top-down shot of a chaotic tangle of b
     - 영상: [Low Angle Shot] 한쪽에 단정하게 걸려있는 선명한 주황색 구명조끼. 마치 영웅처럼 듬직해 보인다. 
 
     - 내레이션: 최고의 즐거움을 위해
+```
+image prompt
+
+Makoto Shinkai anime style, key visual. **Inside a boat's wheelhouse (pilothouse),** a heroic low-angle shot of a bright orange life jacket hanging neatly against a wall. **Brilliant morning sun streams through the large windows of the wheelhouse,** backlighting the life jacket and creating a luminous, hopeful glow that makes it look powerful and important. The texture of the fabric is drawn in beautiful detail. **In the soft-focus background, complex navigation equipment and the ship's wheel are visible.** Clean lines, vibrant colors.
+```
 
 - ### CUT 3-2 (19-22초)
 
     - 영상: [Slow Push-in] 보트 내부에 단단히 고정된 소화기의 모습으로 카메라가 천천히 다가간다.
 
     - 내레이션: 가장 먼저 챙겨야 할
+```
+Makoto Shinkai anime style, anime screencap. A slow, cinematic push-in shot on a Korean red fire extinguisher mounted securely inside the boat. The lighting is soft and focused, highlighting its sturdy and reliable presence. Detailed logos and instruction labels are visible.
+```
 
 - ### CUT 3-3 (22-26초)
 
     - 영상: [Extreme Close Up] 방수팩에 담긴 스마트폰 화면. '해로드' 앱의 지도 화면이 선명하게 보인다. 
 
     - 내레이션: 진짜 필수 장비들
+```
+Makoto Shinkai anime style. An extreme close-up of a smartphone screen, safe inside a waterproof pouch. The screen is brightly lit, displaying the colorful map and interface of the 'Haeroad' safety app. The background is a soft-focus, sparkling ocean. Luminous and clear.
+```
 
 ## SCENE 4: 보이지 않는 승무원의 활동 (26-46초)
 - ### CUT 4-1 (26-30초)
