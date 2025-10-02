@@ -9,7 +9,7 @@
 - 추가 묘사 : 화면 왼쪽과 오른쪽에는 커다란 잎이 화면에 걸쳐서 살짝 보여진다. green tone
 
 - Style : illust
-- Angle/Viewpoint : Eye-level	
+- Angle/Viewpoint : Eye-level
 - Camera Distance: Medium Close-up
 ```
 
