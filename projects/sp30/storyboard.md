@@ -54,10 +54,10 @@
 
 ---
 
-## 스토리보드
+## 4. 스토리보드
 
-## SCENE 1: 즐거움의 장비 (0-6초)
-- ### CUT 1-1 (0-2초)
+### SCENE 1: 즐거움의 장비 (0-6초)
+- #### CUT 1-1 (0-2초)
 
     - 영상: [Extreme Close Up] 낚싯줄이 팽팽하게 당겨지며 릴이 '파르륵' 소리를 내며 빠르게 돌아간다.
 
@@ -74,7 +74,7 @@ movie prompt
 Makoto Shinkai anime style. Extreme close-up shot. A silver fishing reel's spool **spins rapidly and continuously**, creating intense motion blur. The taut fishing line **is being pulled out** in a smooth, fast motion. Brilliant sunlight creates a beautiful, shimmering lens flare that **moves with the rotation**.
 ```
 
-- ### CUT 1-2 (2-4초)
+- #### CUT 1-2 (2-4초)
 
     - 영상: [Medium Shot] 보트 바닥에 놓인 블루투스 스피커가 비트에 맞춰 '쿵쿵' 울린다. 스피커 위로 물방울이 튀는 모습.
 
@@ -91,7 +91,7 @@ movie prompt
 Makoto Shinkai anime style. Medium shot. A sleek black Bluetooth speaker on a boat deck **visibly vibrates with the heavy bass** of a song. Crystal clear water droplets **splash up and fall in beautiful slow motion** around it, glistening in the sun.
 ```
 
-- ### CUT 1-3 (4-6초)
+- #### CUT 1-3 (4-6초)
 
     - 영상: [Close Up] 휴대용 버너 위에서 라면이 '보글보글' 맛있게 끓는다.
 
